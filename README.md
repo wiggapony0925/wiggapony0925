@@ -1,14 +1,14 @@
 # 💫 About Me:
-[cite_start]**Jeffrey Fernandez** is a Software Engineer and Computer Science & Information Security student at **John Jay College**. [cite_start]He is currently working as a **Software Engineer Apprentice at JPMorgan Chase**, where he delivers scalable web experiences for millions of users using React and the Manhattan Design System.
+**Jeffrey Fernandez** is a Software Engineer and Computer Science & Information Security student at **John Jay College**. [cite_start]He is currently working as a **Software Engineer Apprentice at JPMorgan Chase**, where he delivers scalable web experiences for millions of users using React and the Manhattan Design System.
 
-[cite_start]Simultaneously, Jeffrey is the **Founder & Lead Software Engineer at JFM Capital Group (PurePay)**, a fintech incubator where he architects full-stack solutions using Next.js 14, TypeScript, and AWS.
+Simultaneously, Jeffrey is the **Founder & Lead Software Engineer at JFM Capital Group (PurePay)**, a fintech incubator where he architects full-stack solutions using Next.js 14, TypeScript, and AWS.
 
 Passionate about fintech, cloud architecture, and AI-driven development, Jeffrey combines enterprise-grade engineering practices with entrepreneurial drive.
 
-* [cite_start]🔭 **Currently working on:** Building the PurePay MVP payment infrastructure with Stripe Connect and AWS.
-* [cite_start]🌱 **Learning:** Advanced Cloud Computing (AWS) and Multi-agent LLM architectures[cite: 4, 15].
+* 🔭 **Currently working on:** Building the PurePay MVP payment infrastructure with Stripe Connect and AWS.
+* 🌱 **Learning:** Advanced Cloud Computing (AWS) and Multi-agent LLM architectures[cite: 4, 15].
 * 👯 **Looking to collaborate on:** Fintech startups, Open Source, and AI/ML projects.
-* [cite_start]⚡ **Fun fact:** I was a Varsity Soccer Team Captain and have a background in high-demand product reselling[cite: 4, 18].
+* ⚡ **Fun fact:** I was a Varsity Soccer Team Captain and have a background in high-demand product reselling[cite: 4, 18].
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://jeffreyfernandezportfolio.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffrey-fernandez-66857b269/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/wiggapony00925) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ninjeff06)
